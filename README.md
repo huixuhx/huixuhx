@@ -1,6 +1,6 @@
 ## Software Developer & Data Analyst
 ### Delivering quality code, building AI-powered applications and sharing knowledge to help
-
+***
 **OPENTOWORK**
 
 Feel free to reach out if you'd like to connect! 😊
