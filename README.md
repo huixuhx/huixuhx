@@ -1,5 +1,5 @@
 ## Software Developer & Data Analyst
-### Delivering high quality code, building AI-powered applications and sharing knowledge to help
+### Delivering quality code, building AI-powered applications and sharing knowledge to help
 
 **OPENTOWORK**
 
