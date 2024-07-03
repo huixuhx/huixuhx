@@ -1,18 +1,13 @@
-## Software Developer & Data Analyst
-### Delivering quality code, building AI-powered applications and sharing knowledge to help
-***
-**OPENTOWORK**
-
-Feel free to reach out if you'd like to connect! 😊
+## Hi there 👋 I am Hui Xu.
 
 
+
+- 🔭 I’m currently study Applied Data Science M.Eng. at University of Victoria
+- 🌱 I’m currently learning .NET, AWS ....
+- 🖥️ I'm currently seeking positions as a Software Developer & Data Analyst.
 <!--
 **hui-x-u/hui-x-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
