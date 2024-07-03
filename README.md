@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently study Applied Data Science M.Eng. at University of Victoria
+- 🔭 I’m currently studying Applied Data Science M.Eng. at University of Victoria
 - 🌱 I’m currently learning .NET, AWS ....
 - 🖥️ I'm currently seeking positions as a Software Developer & Data Analyst.
 <!--
