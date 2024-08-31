@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Address:** 2849 Bryn Maur Rd, Victoria, BC V9B 0Z7  
 **Email:** [hxu@uvic.ca](mailto:hxu@uvic.ca)  
 **Phone:** (437) 799-9188  
 
