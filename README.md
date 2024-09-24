@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 **Fucunbao Medical Technology**  
 *Software Developer Intern*  
-*Jul 2019 - Oct 2019*
+*Jun 2019 - Dec 2019*
 
 - Crafted a web application for data visualization using React, and interacted with servers through RESTful APIs.
 - Developed applications on multiple platforms, including Windows, macOS, and Linux.
